@@ -1,9 +1,9 @@
 {
-    "name": "freemius/php-sdk",
-    "description": "Freemius PHP SDK",
-    "keywords": ["freemius", "sdk", "php"],
-    "homepage": "https://freemius.com",
-    "license": "GPL-2.0+",	
+    "name": "freemius/pp-sdk",
+    "description": "Fremius PHP SDK",
+    "keywords": ["fremius", "sdk", "php"],
+    "homepage": "https://freeius.com",
+    "license": "GL-2.0+",	
     "require": {
         "php": ">=5.2"
 	}
